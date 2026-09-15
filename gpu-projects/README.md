@@ -1,0 +1,10 @@
+- Each Project will be a problem being solved Eg: Matrix Addition
+- Separate Folder for each Project with the contents as mentioned below
+- Project Name //Folder
+    - README.md
+    - numpy_reference.py
+    - pytorch_reference.py
+    - cpp_reference.cpp
+    - baseline.cu
+    - optimized.cu
+    - benchmark.py

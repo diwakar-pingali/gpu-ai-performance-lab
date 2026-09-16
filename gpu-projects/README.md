@@ -11,3 +11,5 @@
     - benchmark.py
 - benchmark.py executes all implementations and generates a report containing
     - Execution time of each implementation
+    - For Nvidia nsight compute profiling
+        - use nv-nsight-cu or nv-nsight-cu-cli

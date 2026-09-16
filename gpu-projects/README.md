@@ -4,7 +4,11 @@
     - README.md
     - numpy_reference.py
     - pytorch_reference.py
+    - triton_reference.py
     - cpp_reference.cpp
     - baseline.cu
     - optimized.cu
     - benchmark.py
+- benchmark.py executes all implementations and generates a report containing
+    - Execution time of each implementation
+    - Nsight analysis

@@ -2,8 +2,8 @@ import numpy as np
 import time
 
 #1. Initialiaze a numpy array of size 1024 * 1024
-dim_x = 1024
-dim_y = 1024
+dim_x = 1024 
+dim_y = 1
 array_size =  dim_x * dim_y
 vec_A = np.arange(array_size, dtype=np.float32).reshape(dim_x, dim_y)
 vec_B = np.arange(array_size, dtype=np.float32).reshape(dim_x, dim_y)

@@ -5,7 +5,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 #Initialise torch tensor of size 1024x1024
 dim_x = 1024
-dim_y = 1024
+dim_y = 1
 shape = (dim_x, dim_y)
 
 start_event = torch.cuda.Event(enable_timing=True)

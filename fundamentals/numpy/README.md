@@ -1,0 +1,4 @@
+- Numpy is a python library that provide optimised operations over array like data
+- Numpy arrays is basically a data structure class with methods providing the capability of vectorised operation
+- These arrays are much faster than iterating over list based arrays
+- Numpy can be used in any python code with "import numpy as np"
